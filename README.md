@@ -22,8 +22,8 @@
 
 ![image](https://user-images.githubusercontent.com/84412132/121613963-47129b80-ca23-11eb-818b-da3964a3ac9f.png)
 
-![image](https://user-images.githubusercontent.com/84412132/121614179-c7d19780-ca23-11eb-9c51-ed41ee9b3a4f.png)
-![image](https://user-images.githubusercontent.com/84412132/121614255-ec2d7400-ca23-11eb-83ac-b06dd876ea40.png)
+![image](https://user-images.githubusercontent.com/84412132/121616448-8e4f5b00-ca28-11eb-8811-66bdb70e0986.png)
+
 
 3. Una barra colectora de cobre sólido de 250 pies de longitud, que se muestra en la figura 3-34, se usa para conectar una fuente de voltaje a un panel de distribución.
 Si la barra tiene una resistencia de 0.02 Ω a 20°C, calcule la altura requerida de la barra (en pulgadas).
