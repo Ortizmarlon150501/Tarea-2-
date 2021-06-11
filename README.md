@@ -1,8 +1,16 @@
 
 # Objetivo General:
 
+Determinar la relacion que exite entre la energia y la potencia, por medio del plateamiento y desarrollo de ejercicios en los cuales se evaluara los conceptos basicos y fundamentales repasados en los capitulos, asociando las formulas planteadas para la resolucion de los problemas y dar una idea mas clara del uso que se da a la energia y potencia en el ambito profesional
+
+
 # Objetivo Especifico:
 
+Definir los conceptos de potenciación, los factores primos y de la notación científica.
+
+Establecer las características de las operaciones matemáticas, como son la potenciación y sus propiedades, los factores primos y la notación científica.
+
+Identificar las operaciones matemáticas basadas en la potenciación y sus propiedades, los factores primos y la notación científica.
 
 # Marco Teorico
 
