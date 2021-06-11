@@ -328,10 +328,10 @@ a. En V  25 V, ¿cuánto valen I y Rcd?
 
 ![image](https://user-images.githubusercontent.com/84585835/121633402-5a842d80-ca48-11eb-8edd-4a2652da938e.png)
 
-69. Establezca el circuito de la figura 4-33 y resuelva para las corrientes dado el par voltaje/resistencia del problema 1a, 1c, 1d y 1e. 
-
 
 # Video
+
+https://youtu.be/LqTlnx7ua0g
 
 # Conclusiones
 
