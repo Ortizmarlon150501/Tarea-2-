@@ -1,15 +1,15 @@
 
-#Objetivo General:
+# Objetivo General:
 
-Objetivos especificos:
+# Objetivo Especifico:
 
-Marco Teorico
+# Marco Teorico
 
-Explicacion y resolucion de ejercicios o problemas
+#  Explicacion y resolucion de ejercicios o problemas
 
-VIDEO
+# Video
 
-Conclusiones
+# Conclusiones
 
 
-Bibliografia
+# Bibliografia 
