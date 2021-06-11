@@ -1,4 +1,5 @@
-#Objetivos General:
+
+#Objetivo General:
 
 Objetivos especificos:
 
