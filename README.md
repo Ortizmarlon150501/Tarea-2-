@@ -160,5 +160,10 @@ d. 12.5 MΩ
 
 # Conclusiones
 
+La energia electrica es el resultado del producto de la potencia electrica medida en Kilowatts y el tiempo medido en horas , el cual puede tomar un costo monetaario y ahora tenemos una guia de como funciona el financiamiento  de proyectos que utilizar energia 
+
+La energía eléctrica tiene una gran importancia en el desarrollo de la sociedad, su uso hace posible la automatización de la producción que aumenta la productividad y mejora las condiciones de vida del hombre.
+
+
 
 # Bibliografia 
