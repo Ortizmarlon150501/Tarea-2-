@@ -190,6 +190,122 @@ d. 12.5 MΩ
 
 ![image](https://user-images.githubusercontent.com/84587118/121630610-12aed780-ca43-11eb-843c-accdd1b4e53b.png)
 
+17. Un elemento resistivo este hecho de 100 m de alambre de aluminio con un
+diámetro de 0.5 mm. Si la corriente a 20˚C es de 200 mA ¿cuál es el voltaje
+aplicado?
+
+![image](https://user-images.githubusercontent.com/84587118/121630927-b5675600-ca43-11eb-823b-537acb4c8923.png)
+
+19. La figura 4-35 representa la gráfica I-V para el circuito de la figura 4-33.
+¿Cuál es el valor de R?
+
+![image](https://user-images.githubusercontent.com/84587118/121630959-cadc8000-ca43-11eb-9294-5d4b170d0cc4.png)
+
+
+21. En un circuito resistivo, E _ 100 V. Si R se duplica y E se cambia para que la
+nueva corriente sea el doble que la corriente original, ¿cuál es el nuevo valor de E?
+
+![image](https://user-images.githubusercontent.com/84587118/121631022-ed6e9900-ca43-11eb-8b9e-be7443e36383.png)
+
+
+23. Si 25 m de alambre de nicromo con un diámetro de 0.1 mm se conectan a una
+batería de 12 V, ¿cuál es la corriente a 20˚C?
+
+![image](https://user-images.githubusercontent.com/84587118/121631062-01b29600-ca44-11eb-90a0-369593ac6da5.png)
+
+4-2 Polaridad del voltaje y dirección de la corriente
+
+25. Para cada resistor de la figura 4-36, determine el voltaje V y su polaridad o la
+corriente I, así como su dirección cuando sea posible.
+
+![image](https://user-images.githubusercontent.com/84587118/121631093-1131df00-ca44-11eb-89b2-3647a6f8194d.png)
+
+27. Un resistor disipa 723 joules de energía en 3 minutos y 47 segundos. Calcule
+la tasa a la cual la energía se transfiere a este resistor en joules por segundo.
+¿Cuál es la energía disipada en watts?
+
+![image](https://user-images.githubusercontent.com/84587118/121631151-2575dc00-ca44-11eb-8c45-e2948e4ade91.png)
+
+29. Un resistor obtiene 3 A de una batería de 12 V. ¿Cuánta potencia entrega la
+batería al resistor?
+¿Potencia?
+
+![image](https://user-images.githubusercontent.com/84587118/121631180-31619e00-ca44-11eb-9193-ed7bd237fe6e.png)
+
+31. Un calentador eléctrico de 1.2 kW tiene una resistencia de 6 Ω. ¿Cuánta corriente
+requiere?
+
+![image](https://user-images.githubusercontent.com/84587118/121631213-44746e00-ca44-11eb-9c41-eff73027446d.png)
+
+
+33. ¿Cuántos volts se deben aplicar a un resistor de 3 Ω para que resulte una disipación
+de potencia de 752 W?
+
+![image](https://user-images.githubusercontent.com/84587118/121631244-5229f380-ca44-11eb-87a7-a3bc522a8b38.png)
+
+35. Un resistor con bandas café, negro y naranja disipa 0.25 W. Calcule su voltaje
+y su corriente.
+
+![image](https://user-images.githubusercontent.com/84587118/121631274-5fdf7900-ca44-11eb-9284-5e838e8c7276.png)
+
+37. Un transmisor de radio portátil tiene una entrada de potencia de 0.455 kW.
+¿Cuánta corriente obtendrá de una batería de 12 V?
+
+![image](https://user-images.githubusercontent.com/84587118/121631292-6a9a0e00-ca44-11eb-8a6b-be8bf41c32ea.png)
+
+39. Un motor entrega 3.56 hp a una carga. ¿Cuántos watts son?
+3.56hp
+
+![image](https://user-images.githubusercontent.com/84587118/121631312-7554a300-ca44-11eb-893b-713bd068c0e2.png)
+
+41. Un resistor de 0.27 kΩ es especificado en 2 W. Calcule el máximo voltaje que se le puede aplicar y la máxima corriente que puede llevar sin exceder su especificación. 
+
+![image](https://user-images.githubusercontent.com/84587118/121631335-856c8280-ca44-11eb-9cb0-e7f6cd1e0865.png)
+
+43. Un resistor de 25 Ω se conecta a un suministro de energía cuyo voltaje es de 100V +- 5%. ¿Cuál es el posible intervalo de potencia disipada por el resistor? 
+
+![image](https://user-images.githubusercontent.com/84587118/121631363-987f5280-ca44-11eb-936c-f17da4a2fdb1.png)
+
+45. Cada bloque de la figura 4-38 puede ser una fuente o una carga. Determine, para cada uno, su potencia y dirección.
+
+![image](https://user-images.githubusercontent.com/84587118/121631413-aaf98c00-ca44-11eb-8a3e-0bf10af89e6c.png)
+
+47. Una lámpara de seguridad nocturna de 40 W se enciende por 9 horas
+
+![image](https://user-images.githubusercontent.com/84587118/121631440-b947a800-ca44-11eb-9193-742660a3ace9.png)
+
+49. Determine el costo total por usar los siguientes aparatos a $0.11 por kWh:
+
+![image](https://user-images.githubusercontent.com/84587118/121631462-c95f8780-ca44-11eb-8be3-47631cd54748.png)
+
+50. Un dispositivo eléctrico con un ciclo de una hora opera a su máxima potencia
+(400 W) por 15 minutos, a potencia media por 30 minutos, luego se apaga por
+el resto de la hora. El ciclo se repite de manera continua. A $0.10/kWh, determine el costo anual para operar este dispositivo
+
+![image](https://user-images.githubusercontent.com/84587118/121631565-f14eeb00-ca44-11eb-8fe2-6e19d06940b0.png)
+
+51. Mientras el dispositivo del problema 50 opera, otras dos cargas también lo hacen: 
+a. un calentador de 4 kW, de forma continua
+
+![image](https://user-images.githubusercontent.com/84587118/121631610-062b7e80-ca45-11eb-8230-cc112956aaea.png)
+
+53. Si hay 24 rebanadas en una barra de pan y se tiene un tostador de dos rebanadas de 1 100 W que tarda 1 minuto y 45 segundos en tostarlas, a $0.13/kWh ¿cuánto costaría tostar toda la barra?
+
+![image](https://user-images.githubusercontent.com/84587118/121631648-17748b00-ca45-11eb-9daf-a2088a8ad5f3.png)
+
+
+55. La potencia de salida de un transformador con n= 97% es de 50 kW. ¿Cuál es la potencia de entrada?
+
+![image](https://user-images.githubusercontent.com/84587118/121631681-29562e00-ca45-11eb-9c46-e740f7ac5c15.png)
+
+57. La potencia de entrada de un dispositivo es de 1 100 W. Si la potencia que se pierde debido a varias ineficiencias es de 190 W, ¿cuál es la eficiencia del dispositivo?
+
+![image](https://user-images.githubusercontent.com/84587118/121631701-36731d00-ca45-11eb-8660-017c7cd45847.png)
+
+59. Un motor de cd de 120 V con una eficiencia de 89% demanda 15 A de una fuente. ¿Cuántos caballos de potencia tiene de salida?
+
+![image](https://user-images.githubusercontent.com/84587118/121631741-47239300-ca45-11eb-815b-ad4924a9e574.png)
+
 
 
 # Video
