@@ -154,6 +154,42 @@ d. 12.5 MΩ
 ![image](https://user-images.githubusercontent.com/84412132/121616172-00737000-ca28-11eb-9ba9-b22bc5adcbbf.png)
 
 
+# Capitulo 4 Ley de Ohm Potencia y Energia
+ 
+ 1.	Para el circuito de la figura 4-33, determine la corriente I para cada uno de los siguientes incisos. Exprese la respuesta en la unidad más apropiada: amperes, miliamperes, microamperes, etcéter
+
+![image](https://user-images.githubusercontent.com/84587118/121630309-813f6580-ca42-11eb-833d-83b0ea3cd5db.png)
+
+![image](https://user-images.githubusercontent.com/84587118/121630323-8997a080-ca42-11eb-8b5d-55ba46719c8d.png)
+
+3.	Para el circuito de la figura 4-33, calcule V para cada uno de los siguientes incisos:
+
+![image](https://user-images.githubusercontent.com/84587118/121630361-9ddb9d80-ca42-11eb-8c05-527d20cf5b1f.png)
+
+5.	Cuando se conecta una lámpara eléctrica a un contacto de pared de 120 V, requiere 1.25 A. ¿Cuál es su resistencia?
+
+![image](https://user-images.githubusercontent.com/84587118/121630401-b055d700-ca42-11eb-98e8-01de5e4719a3.png)
+
+7.	¿Cuánto voltaje se puede aplicar a un resistor de 560 Ω, si la corriente no debe exceder de 50 mA?
+
+![image](https://user-images.githubusercontent.com/84587118/121630442-c6639780-ca42-11eb-80eb-45b1567a3314.png)
+
+9.	En la figura 4-33, si E = 30 V y la conductancia del resistor es de 0.2 S, ¿cuál es el valor de I? Sugerencia: véase la sección 3-11 en el capítulo 3.
+
+![image](https://user-images.githubusercontent.com/84587118/121630488-dbd8c180-ca42-11eb-9395-c4d26a5af54d.png)
+
+11.	La corriente a través de un resistor es de 15 mA. Si la caída de voltaje en el resistor es de 33 V, ¿cuál es su código de colores?
+
+![image](https://user-images.githubusercontent.com/84587118/121630535-f1e68200-ca42-11eb-97db-080d70fafcb9.png)
+
+13.	En el circuito de la figura 4-34, si el resistor es reemplazado por otro con bandas roja, roja y negra, ¿a qué voltaje cree que se funda el fusible?
+
+![image](https://user-images.githubusercontent.com/84587118/121630562-fdd24400-ca42-11eb-99e8-580c3b2bced7.png)
+
+15.	Un electroimán se devana con alambre de cobre AWG 30. La bobina tiene 800 vueltas y la longitud promedio de cada una es de 3 pulgadas. Cuando se conecta a una fuente de cd de 48 V ¿cuál es la corriente
+
+![image](https://user-images.githubusercontent.com/84587118/121630610-12aed780-ca43-11eb-843c-accdd1b4e53b.png)
+
 
 
 # Video
