@@ -331,7 +331,7 @@ a. En V  25 V, ¿cuánto valen I y Rcd?
 
 # Video
 
-https://youtu.be/LqTlnx7ua0g
+https://youtu.be/9fKwaw-yYoc
 
 # Conclusiones
 
